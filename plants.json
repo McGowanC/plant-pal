@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Spider Plant",
+        "alt-names": [],
+        "scientific-name": "Chloropythum Comosum",
+        "plant-type": "houseplant",
+        "photos": [],
+        "colors": [],
+        "description-short": "Considered one of the most adaptable of houseplants and the easiest to grow. This plant can grow in a wide range of conditions and suffers from few problems, other than brown tips",
+        "description-long": "The spider plant (Chlorophytum comosum) is considered one of the most adaptable of houseplants and the easiest to grow. This plant can grow in a wide range of conditions and suffers from few problems, other than brown tips. The spider plant is so named because of its spider-like plants, or spiderettes, which dangle down from the mother plant like spiders on a web. Available in green or variegated varieties, these spiderettes often start out as small white flowers. Gardening Tips for Spider Plants and General Spider Plant Care Caring for spider plants is easy. These tough plants tolerate lots of abuse, making them excellent candidates for newbie gardeners or those without a green thumb. Provide them with well-drained soil and bright, indirect light and they will flourish. Water them well but do not allow the plants to become too soggy, which can lead to root rot. In fact, spider plants prefer to dry out some between waterings.",
+        "life-duration": "long",
+        "care-difficulty": "easy",
+        "care": {
+            "soil-type": "well draining",
+            "light": "bright indirect",
+            "temperature": "Spider plants prefer cooler temperatures in the 55-65 degree range",
+            "water": "semi-frequently",
+            "water-amount": "enough to keep soil moist but not soggy",
+            "water-time-scale": "week"
+        },
+        "common-problems": [
+            "Browning of leaf tips - a normal problem for spider plants cuased by the fluoride found in water. Periodically flush out the soil with a heavy watering"
+        ],
+        "misc-notes": ""
+    },
+
+    {
+        "name": "Peace Lily",
+        "alt-names": ["closet plant"],
+        "scientific-name": "Spathiphyllum",
+        "plant-type": "houseplant",
+        "photos": [],
+        "colors": [],
+        "description-short": "An easy-to-grow indoor plant, the peace lily is hearty prefers low-light while also purifying the air",
+        "description-long": "Native primarily to tropical rainforests of America, the peace lily plant is a vibrant and graceful perennial that adds life to any space. The standard peace lily can grow to 24-40 inches and deluxe plants can grow to 32-50 inches. The white blooms of the peace lily generally appear in the spring as more of a modified leaf, a “bract,” than a multi-petaled flower. Very well cared for plants may bloom again in the fall as well. Blooms last for two months or more and after blooms fade, a period of non-blooming follows. Peace lilies manage just fine in darker quarters such as offices, bedrooms, and hospital rooms. Combine its ease of care with its aide in helping the cleanse the air we breathe, and you can see why the peace lily is such a popular houseplant.",
+        "life-duration": "long",
+        "care-difficulty": "easy",
+        "care": {
+            "soil-type": "well-draining",
+            "light": "low",
+            "temperature": "Peace lilies prefer a moderate range of 65-85 degrees. Keep away from heating or cooling appliaces.",
+            "water": "when the soil feels dry",
+            "water-amount": "heavy soak",
+            "water-time-scale": "week"
+        },
+        "common-problems": [
+            "Sensitive to Chlorine: If your water is heavily chlorinated, fill a container of water and let it stand overnight so the chlorine can off-gas."
+        ],
+        "misc-notes": ""
+    },
+
+    {
+        "name": "Orchid",
+        "alt-names": [],
+        "scientific-name": "Orchidaceae",
+        "plant-type": "houseplant",
+        "photos": [],
+        "colors": [],
+        "description-short": "An easy-to-grow indoor plant, the peace lily is hearty prefers low-light while also purifying the air",
+        "description-long": "Native primarily to tropical rainforests of America, the peace lily plant is a vibrant and graceful perennial that adds life to any space. The standard peace lily can grow to 24-40 inches and deluxe plants can grow to 32-50 inches. The white blooms of the peace lily generally appear in the spring as more of a modified leaf, a “bract,” than a multi-petaled flower. Very well cared for plants may bloom again in the fall as well. Blooms last for two months or more and after blooms fade, a period of non-blooming follows. Peace lilies manage just fine in darker quarters such as offices, bedrooms, and hospital rooms. Combine its ease of care with its aide in helping the cleanse the air we breathe, and you can see why the peace lily is such a popular houseplant.",
+        "life-duration": "long",
+        "care-difficulty": "easy",
+        "care": {
+            "soil-type": "well-draining",
+            "light": "bright, indirect",
+            "temperature": "Peace lilies prefer a moderate range of 65-85 degrees. Keep away from heating or cooling appliaces.",
+            "water": "when the soil feels dry",
+            "water-amount": "heavy soak",
+            "water-time-scale": "week"
+        },
+        "common-problems": [
+            "Sensitive to Chlorine: If your water is heavily chlorinated, fill a container of water and let it stand overnight so the chlorine can off-gas."
+        ],
+        "misc-notes": ""
+    }
+
+
+]
