@@ -48,20 +48,6 @@ function searchPlants(e) {
 
 //build html based off json list
 
-function buildPlantHTML(wow) {
-    wow.forEach((arrayItem) => {
-        let plantList = document.querySelector('.common-houseplants ul');
-        let plantName = arrayItem.name;
-        let listItem = document.createElement('li');
-        
-        listItem.innerText = plantName;
-
-        plantList.appendChild(listItem);
-        
-    })
-}
-
-
 
 const houseplantDiv = document.querySelector('.common-houseplants');
 const p = document.createElement('p');
@@ -84,14 +70,20 @@ function buildPlantHTML(array) {
 
     array.forEach((arrayItem) => {
         let plantCard = document.createElement('div');
-        
-        
-        let plantName = arrayItem.name;
         let listItem = document.createElement('li');
         
-        listItem.innerText = plantName;
+        let plantName = arrayItem.name;
+        let plantDescShort = arrayItem['description-short']        
+        
+        let builtHTML = `
+            <h1>The plant name is ${plantName} </h1>  
+                <p>and the description is ${plantDescShort}</p>
+                `
 
-        plantList.appendChild(listItem);
+        plantCard.innerHTML = builtHTML;
+        console.log(builtHTML);
+        listItem.append(plantCard)
+        plantList.append(listItem);
         
     })
 }
